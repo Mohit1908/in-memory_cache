@@ -1,6 +1,6 @@
+#include "memory.hpp"
+
 namespace memory
 {
-    class memory{
-        vector<int>
-    }
+
 }

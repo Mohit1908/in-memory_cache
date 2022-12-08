@@ -1,0 +1,4 @@
+.clang-tidy
+*.pdf
+*.o
+*.out

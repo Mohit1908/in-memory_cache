@@ -1,0 +1,13 @@
+1. multiple threads can read at same time   // reader count
+2. only one thread can write at a time      // writer id
+   
+3. Thread can read and write..
+    On call one of these:
+        It checks if it is already in cache
+            If yes, checks if someone is already using it.
+
+            If no, loads from memory to cache and return the value.
+
+4. Eviction:
+    tbd
+5. 
